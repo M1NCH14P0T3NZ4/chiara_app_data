@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "versione": "1.0",
+    "ultimo_aggiornamento": "2023-10-27",
+    "messaggio_benvenuto": "Ciao Chiara, questo spazio è solo per te. ❤️"
+  },
+  "categorie": [
+    {
+      "id": "tristezza",
+      "titolo": "Tristezza",
+      "emoji": "🌧️",
+      "colore": "#A9CCE3",
+      "frammenti": [
+        {
+          "id": "tri_001",
+          "tipo": "semplice",
+          "testo": "Non devi essere sempre forte. Oggi va bene anche solo respirare.",
+          "audio": ""
+        },
+        {
+          "id": "tri_002",
+          "tipo": "poetico",
+          "testo": "Anche la pioggia più fitta finisce per bagnare i fiori che domani sbocceranno.",
+          "audio": "audio/triste_1.mp3"
+        }
+      ]
+    },
+    {
+      "id": "rabbia",
+      "titolo": "Rabbia",
+      "emoji": "🔥",
+      "colore": "#E6B0AA",
+      "frammenti": [
+        {
+          "id": "rab_001",
+          "tipo": "semplice",
+          "testo": "Urlalo pure, se serve. Io sono qui e non mi sposto.",
+          "audio": ""
+        }
+      ]
+    },
+    {
+      "id": "noi",
+      "titolo": "Noi",
+      "emoji": "✨",
+      "colore": "#FADBD8",
+      "frammenti": [
+        {
+          "id": "noi_001",
+          "tipo": "personale",
+          "testo": "Ti ricordi quella volta a [Posto]? Ecco, ogni volta che ridi così, il mondo ha più senso.",
+          "audio": ""
+        }
+      ]
+    },
+    {
+      "id": "poesie",
+      "titolo": "Poesie",
+      "emoji": "🌙",
+      "colore": "#D7BDE2",
+      "frammenti": [
+        {
+          "id": "poe_001",
+          "tipo": "poetico",
+          "testo": "Frammenti di luce tra le tue dita,\nsei la parte più vera della mia vita.",
+          "audio": ""
+        }
+      ]
+    }
+  ]
+}
