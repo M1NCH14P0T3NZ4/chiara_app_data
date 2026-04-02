@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "versione": "1.0",
-    "descrizione": "Frammenti per Chiara",
-    "ultimo_aggiornamento": "2023-10-27"
+    "versione": "1.1",
+    "descrizione": "Frammenti e Ricordi per Chiara",
+    "ultimo_aggiornamento": "2024-04-02"
   },
   "categorie": [
     {
@@ -92,5 +92,14 @@
       "colore": "#FFF3E0",
       "frammenti": []
     }
+  ],
+  "galleria": [
+    "https://raw.githubusercontent.com/M1NCH14P0T3NZ4/chiara_app_data/main/foto/noi1.jpeg",
+    "https://raw.githubusercontent.com/M1NCH14P0T3NZ4/chiara_app_data/main/foto/noi2.jpeg",
+    "https://raw.githubusercontent.com/M1NCH14P0T3NZ4/chiara_app_data/main/foto/noi3.jpeg",
+    "https://raw.githubusercontent.com/M1NCH14P0T3NZ4/chiara_app_data/main/foto/noi4.jpeg",
+    "https://raw.githubusercontent.com/M1NCH14P0T3NZ4/chiara_app_data/main/foto/noi5.jpeg",
+    "https://raw.githubusercontent.com/M1NCH14P0T3NZ4/chiara_app_data/main/foto/noi6.jpeg",
+    "https://raw.githubusercontent.com/M1NCH14P0T3NZ4/chiara_app_data/main/foto/noi7.jpeg"
   ]
 }
