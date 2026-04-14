@@ -90,7 +90,14 @@
       "titolo": "Poesie",
       "emoji": "🌙",
       "colore": "#FFF3E0",
-      "frammenti": []
+      "frammenti": [
+        {
+          "id": "poe_001",
+          "titolo": "Ti Amo",
+          "testo": "Chiara luce che rischiara l'alba,\nimperitura bagliore di un istante,\ndistricatrice di nubi eterne,\ncalma pausa di amato riposo.\n\nIn te si quieta il mio io,\ne l'apatia si scioglie, inerme,\ncome rugiada al tepore.\nTu, sicuro porto del cuore,\npuro annegamento d'amore.\n\nE se siffatta tempesta,\nnon avrò timore né deriva:\nperchè per me marinaio\nil tuo sguardo il mio faro,\nil tuo sorriso la mia riva.",
+          "tipo": "poetico"
+        }
+      ]
     }
   ],
   "galleria": [
